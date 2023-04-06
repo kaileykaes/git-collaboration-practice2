@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-RSpec.describe '' do
+RSpec.describe Git do
   before(:each) do
 
   end
